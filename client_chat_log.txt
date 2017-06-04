@@ -1,0 +1,110 @@
+[00:02:20]: [Join Announcement] 读书人罢了
+[00:16:36]: [Join Announcement] Joker
+[00:18:53]: [Join Announcement] D Dreamer
+[00:19:18]: [Say] (KU_nxw0IOVj) 读书人罢了: 你们卡吗？
+[00:19:36]: [Say] (KU_cSqbE-AL) D Dreamer: no
+[00:23:55]: [Death Announcement] D Dreamer was killed by Beefalo. He became a spooky ghost!
+[00:24:33]: [Say] (KU_X-4JQOXc) maliut: 雨神用地上的雨伞
+[00:24:50]: [Resurrect Announcement] D Dreamer was resurrected by Florid Postern.
+[00:24:51]: [Say] (KU_X-4JQOXc) maliut: 给你吃的
+[00:24:59]: [Join Announcement] P.I.E
+[00:25:24]: [Join Announcement] 651112786
+[00:27:37]: [Death Announcement] Joker was killed by Starvation. They became a spooky ghost!
+[00:28:30]: [Say] (KU_X-4JQOXc) maliut: boss速度回家
+[00:31:08]: [Leave Announcement] Joker
+[00:31:27]: [Say] (KU_X-4JQOXc) maliut: 说话按y
+[00:32:01]: [Say] (KU_0Y5thBbB) 651112786: 我能干啥啊
+[00:32:24]: [Skin Announcement] P.I.E legs_skirt_basic_grey_dark
+[00:32:36]: [Say] (KU_X-4JQOXc) maliut: 先去周围探探路呗
+[00:32:44]: [Say] (KU_X-4JQOXc) maliut: 顺便可以收集点资源
+[00:36:22]: [Leave Announcement] P.I.E
+[00:37:10]: [Join Announcement] P.I.E
+[00:42:49]: [Say] (KU_X-4JQOXc) maliut: 别种……
+[00:42:56]: [Say] (KU_X-4JQOXc) maliut: 去收旁边浆果吧
+[00:46:13]: [Say] (KU_0Y5thBbB) 651112786: 第三个值怎么补充啊
+[00:46:30]: [Say] (KU_X-4JQOXc) maliut: san?
+[00:46:36]: [Say] (KU_0Y5thBbB) 651112786: 是啊
+[00:46:42]: [Say] (KU_X-4JQOXc) maliut: 靠近我可以回
+[00:46:55]: [Say] (KU_X-4JQOXc) maliut: 吃烤仙人掌和烤绿蘑菇
+[00:47:40]: [Say] (KU_X-4JQOXc) maliut: 你可以出去采仙人掌
+[00:48:55]: [Say] (KU_X-4JQOXc) maliut: 我们的肉干呢
+[00:49:21]: [Say] (KU_cSqbE-AL) D Dreamer: 腺体太多
+[00:49:32]: [Say] (KU_cSqbE-AL) D Dreamer: 蜘蛛巢边上来了群牛
+[00:49:42]: [Say] (KU_cSqbE-AL) D Dreamer: 三个女王死了
+[00:49:57]: [Say] (KU_cSqbE-AL) D Dreamer: 现在身上20+肉
+[00:50:10]: [Say] (KU_cSqbE-AL) D Dreamer: 腺体刚刚50+
+[00:50:13]: [Say] (KU_X-4JQOXc) maliut: 去挂晒肉架啊
+[00:50:23]: [Say] (KU_cSqbE-AL) D Dreamer: 怪兽肉？
+[00:50:30]: [Say] (KU_X-4JQOXc) maliut: 哦那算了
+[00:50:38]: [Say] (KU_X-4JQOXc) maliut: 给我一点我要吃东西
+[00:51:14]: [Say] (KU_X-4JQOXc) maliut: boss你可以放冰箱
+[00:52:50]: [Say] (KU_cSqbE-AL) D Dreamer: 那啥...
+[00:53:00]: [Say] (KU_cSqbE-AL) D Dreamer: 怪兽肉先还我1块
+[00:53:19]: [Say] (KU_cSqbE-AL) D Dreamer: 还要肉吗？
+[00:53:27]: [Say] (KU_X-4JQOXc) maliut: 不用了
+[00:53:34]: [Say] (KU_cSqbE-AL) D Dreamer: 明天我去刷一波再回来
+[00:55:22]: [Death Announcement] 651112786 was killed by Pig Man. She became a spooky ghost!
+[00:55:33]: [Resurrect Announcement] 651112786 was resurrected by Touch Stone.
+[00:59:51]: [Say] (KU_X-4JQOXc) maliut: 西瓜别用掉
+[01:05:28]: [Say] (KU_X-4JQOXc) maliut: 第一个冰箱有大量肉丸
+[01:06:25]: [Death Announcement] 651112786 was killed by Crawling Horror. She became a spooky ghost!
+[01:07:14]: [Resurrect Announcement] 651112786 was resurrected by Florid Postern.
+[01:08:31]: [Say] (KU_X-4JQOXc) maliut: boss注意自己的san
+[01:08:37]: [Say] (KU_X-4JQOXc) maliut: 这里谁死过
+[01:10:44]: [Say] (KU_X-4JQOXc) maliut: 注意不要过热
+[01:16:13]: [Skin Announcement] P.I.E legs_skirt_basic_brown_sepia
+[01:20:18]: [Skin Announcement] D Dreamer legs_pants_basic_grey_dark
+[01:21:48]: [Say] (KU_cSqbE-AL) D Dreamer: 吸热萤火搭在哪里号？
+[01:22:07]: [Say] (KU_X-4JQOXc) maliut: Zaohaole
+[01:22:24]: [Say] (KU_cSqbE-AL) D Dreamer: 是那个可以一直用的
+[01:22:41]: [Say] (KU_X-4JQOXc) maliut: 艹
+[01:22:47]: [Say] (KU_X-4JQOXc) maliut: 又造错了
+[01:22:52]: [Say] (KU_X-4JQOXc) maliut: 我再造一个
+[01:22:57]: [Say] (KU_cSqbE-AL) D Dreamer: 等等
+[01:23:11]: [Say] (KU_X-4JQOXc) maliut: 6
+[01:24:11]: [Say] (KU_X-4JQOXc) maliut: 夏天了灭火器要开起来，到时候大家烤东西吃去下面那个篝火
+[01:29:38]: [Say] (KU_cSqbE-AL) D Dreamer: 发情中的野牛
+[01:29:50]: [Say] (KU_cSqbE-AL) D Dreamer: 和死神有什么区别？...
+[01:32:06]: [Say] (KU_X-4JQOXc) maliut: 诸位
+[01:32:11]: [Say] (KU_X-4JQOXc) maliut: 没石头了
+[01:32:23]: [Say] (KU_cSqbE-AL) D Dreamer: 我这边两个是砖块
+[01:32:26]: [Say] (KU_X-4JQOXc) maliut: 造不了暖石，冰箱里还有三个，谁出去谁用
+[01:32:35]: [Say] (KU_X-4JQOXc) maliut: 还有西瓜帽，热了可以戴上
+[01:33:12]: [Say] (KU_0Y5thBbB) 651112786: 石头是凿的吗
+[01:33:26]: [Say] (KU_X-4JQOXc) maliut: 用鹤嘴锄
+[01:33:55]: [Say] (KU_X-4JQOXc) maliut: 狗来了
+[01:34:22]: [Say] (KU_cSqbE-AL) D Dreamer: 我在等
+[01:34:32]: [Death Announcement] D Dreamer was killed by Hound. He became a spooky ghost!
+[01:34:43]: [Say] (KU_cSqbE-AL) D Dreamer: 发个消息
+[01:34:47]: [Say] (KU_cSqbE-AL) D Dreamer: 人死了
+[01:35:55]: [Resurrect Announcement] D Dreamer was resurrected by Florid Postern.
+[01:36:51]: [Say] (KU_cSqbE-AL) D Dreamer: 吸热营火呢？..
+[01:38:50]: [Skin Announcement] 651112786 legs_skirt_basic_brown_sepia
+[01:40:37]: [Skin Announcement] 读书人罢了 body_tshirt_red_higgsbury
+[01:45:11]: [Say] (KU_X-4JQOXc) maliut: 如果感觉到地面在震动，赶紧往外跑
+[01:45:17]: [Say] (KU_X-4JQOXc) maliut: 跑离家越远越好
+[01:47:18]: [Say] (KU_cSqbE-AL) D Dreamer: 谁有腐烂食物？
+[01:47:40]: [Say] (KU_X-4JQOXc) maliut: 你要做什么
+[01:47:40]: [Say] (KU_cSqbE-AL) D Dreamer: 刚刚放了浆果等烂掉...
+[01:47:44]: [Say] (KU_cSqbE-AL) D Dreamer: AVG
+[01:47:58]: [Say] (KU_cSqbE-AL) D Dreamer: 只差烂食物
+[01:48:04]: [Say] (KU_X-4JQOXc) maliut: 箱子里有一个现成的
+[01:48:21]: [Say] (KU_cSqbE-AL) D Dreamer: 用了
+[01:48:30]: [Say] (KU_cSqbE-AL) D Dreamer: 然后被狗咬死
+[01:49:20]: [Say] (KU_cSqbE-AL) D Dreamer: 然后完整的又一支试剂被火狗烧了
+[01:50:07]: [Say] (KU_X-4JQOXc) maliut: 给你烂两个茄子
+[01:50:14]: [Say] (KU_cSqbE-AL) D Dreamer: 好的
+[01:55:01]: [Say] (KU_nxw0IOVT) P.I.E: 下了
+[01:55:15]: [Leave Announcement] P.I.E
+[02:03:59]: [Say] (KU_X-4JQOXc) maliut: 白天没事可以在周围拣点大便
+[02:04:25]: [Say] (KU_cSqbE-AL) D Dreamer: 快一组了
+[02:05:20]: [Say] (KU_cSqbE-AL) D Dreamer: 钥匙干什么用的？
+[02:09:08]: [Leave Announcement] 651112786
+[02:12:51]: [Say] (KU_cSqbE-AL) D Dreamer: 够了
+[02:12:56]: [Whisper] (KU_nxw0IOVj) 读书人罢了: 血满了么
+[02:12:57]: [Say] (KU_cSqbE-AL) D Dreamer: 非常感谢
+[02:13:07]: [Say] (KU_cSqbE-AL) D Dreamer: 上限44...
+[02:27:35]: [Say] (KU_cSqbE-AL) D Dreamer: 扛不住了...
+[02:27:45]: [Say] (KU_cSqbE-AL) D Dreamer: 先去睡了
+[02:28:12]: [Leave Announcement] D Dreamer
+[02:32:53]: [Leave Announcement] 读书人罢了

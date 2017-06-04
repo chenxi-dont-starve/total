@@ -1,0 +1,87 @@
+[00:01:34]: [Join Announcement] 读书人罢了
+[00:01:54]: [Join Announcement] P.I.E
+[00:01:55]: [Join Announcement] duocai
+[00:02:26]: [Join Announcement] D Dreamer
+[00:03:14]: [Say] (KU_nxw0IOVj) 读书人罢了: xiexie
+[00:03:29]: [Say] (KU_cSqbE-AL) D Dreamer: 晚上记得离远点...
+[00:03:54]: [Say] (KU_nxw0IOVj) 读书人罢了: 猪舍要不我锤掉？
+[00:03:57]: [Resurrect Announcement] duocai 复活自 恶魔之门.
+[00:04:00]: [Say] (KU_cSqbE-AL) D Dreamer: 不用
+[00:04:01]: [Say] (KU_nxw0IOVj) 读书人罢了: 你打算刷肉么？
+[00:04:29]: [Say] (KU_cSqbE-AL) D Dreamer: 腺体要吗？
+[00:04:44]: [Say] (KU_nxw0IOVj) 读书人罢了: 你留着吧
+[00:04:56]: [Say] (KU_nxw0IOVj) 读书人罢了: 我有别的加血的
+[00:06:08]: [Say] (KU_nxw0IOVj) 读书人罢了: 在恶魔门旁边过夜了 摆了石头篝火
+[00:09:36]: [Say] (KU_cSqbE-AL) D Dreamer: 没事
+[00:09:46]: [Say] (KU_cSqbE-AL) D Dreamer: 这边的不会攻击你
+[00:09:52]: [Say] (KU_nxw0IOVj) 读书人罢了: 杀牛吧 过冬帽子
+[00:10:20]: [Say] (KU_nxw0IOVj) 读书人罢了: ..
+[00:36:04]: [Say] (KU_nxw0IOVj) 读书人罢了: 不要打架 去杀牛啊
+[00:40:28]: [Say] (KU_cSqbE-AL) D Dreamer: 有木炭吗？
+[00:40:39]: [Say] (KU_X-4JQOXc) maliut: 箱子里有
+[00:40:49]: [Say] (KU_cSqbE-AL) D Dreamer: ok
+[00:44:24]: [Death Announcement] D Dreamer 死亡，死因： 触手.他成了一个令人毛骨悚然的鬼！
+[00:48:59]: [Resurrect Announcement] D Dreamer 复活自 恶魔之门.
+[00:50:04]: [Death Announcement] D Dreamer 死亡，死因： 触手.他成了一个令人毛骨悚然的鬼！
+[00:50:42]: [Say] (KU_cSqbE-AL) D Dreamer: 触手的位置是固定的吗？
+[00:56:29]: [Death Announcement] duocai 死亡，死因： 猎犬.她成了一个令人毛骨悚然的鬼！
+[00:56:58]: [Resurrect Announcement] D Dreamer 复活自 恶魔之门.
+[00:56:59]: [Death Announcement] P.I.E 死亡，死因： 猎犬.她成了一个令人毛骨悚然的鬼！
+[00:57:55]: [Resurrect Announcement] P.I.E 复活自 恶魔之门.
+[00:58:01]: [Resurrect Announcement] duocai 复活自 恶魔之门.
+[00:58:33]: [Death Announcement] D Dreamer 死亡，死因： 寒冷刺骨.他成了一个令人毛骨悚然的鬼！
+[00:59:13]: [Say] (KU_nxw0IOVj) 读书人罢了: zz 需要我帮忙吗
+[00:59:33]: [Say] (KU_cSqbE-AL) D Dreamer: 捡走我的东西就好
+[00:59:39]: [Say] (KU_cSqbE-AL) D Dreamer: 小心触手
+[00:59:48]: [Say] (KU_cSqbE-AL) D Dreamer: 东西就在对岸
+[01:00:19]: [Say] (KU_nxw0IOVj) 读书人罢了: 我们的家对岸？
+[01:00:24]: [Say] (KU_cSqbE-AL) D Dreamer: 对的
+[01:04:55]: [Resurrect Announcement] D Dreamer 复活自 恶魔之门.
+[01:07:05]: [Say] (KU_cSqbE-AL) D Dreamer: 没去吗...
+[01:07:15]: [Say] (KU_nxw0IOVj) 读书人罢了: 我去
+[01:07:22]: [Say] (KU_nxw0IOVj) 读书人罢了: 你要去么
+[01:07:41]: [Say] (KU_cSqbE-AL) D Dreamer: 我的保温石也在那里...
+[01:07:41]: [Say] (KU_nxw0IOVj) 读书人罢了: 一起去？
+[01:07:50]: [Say] (KU_nxw0IOVj) 读书人罢了: 你先用腾仙的吧
+[01:07:57]: [Say] (KU_cSqbE-AL) D Dreamer: 好的
+[01:08:08]: [Say] (KU_cSqbE-AL) D Dreamer: 等早上吧...
+[01:08:09]: [Say] (KU_nxw0IOVj) 读书人罢了: 拿到了？
+[01:08:34]: [Say] (KU_cSqbE-AL) D Dreamer: 触手怎么处理？
+[01:08:39]: [Say] (KU_nxw0IOVj) 读书人罢了: 我抗
+[01:08:45]: [Say] (KU_cSqbE-AL) D Dreamer: 还是我去找小蜘蛛？
+[01:09:03]: [Say] (KU_nxw0IOVj) 读书人罢了: 没事 我不带背包了 很肉 96%抗性
+[01:09:17]: [Say] (KU_cSqbE-AL) D Dreamer: 你认真的？
+[01:09:28]: [Say] (KU_cSqbE-AL) D Dreamer: 真么强的抗性...
+[01:09:28]: [Say] (KU_nxw0IOVj) 读书人罢了: en
+[01:09:48]: [Say] (KU_cSqbE-AL) D Dreamer: 等早上
+[01:10:49]: [Say] (KU_nxw0IOVj) 读书人罢了: 锅里波兰水饺 回40hp 血不满的可以去吃
+[01:11:47]: [Say] (KU_nxw0IOVj) 读书人罢了: 右边锅里还有一个波兰水饺
+[01:11:59]: [Say] (KU_cSqbE-AL) D Dreamer: 我可以了
+[01:13:01]: [Say] (KU_nxw0IOVj) 读书人罢了: ==
+[01:16:15]: [Say] (KU_cSqbE-AL) D Dreamer: 走
+[01:26:10]: [Say] (KU_nxw0IOVj) 读书人罢了: 周舟 蜘蛛帮你报仇了
+[01:26:27]: [Say] (KU_nxw0IOVj) 读书人罢了: 你尸体那里的触手被蜘蛛撸死了
+[01:26:40]: [Say] (KU_cSqbE-AL) D Dreamer: henwudi
+[01:27:52]: [Say] (KU_cSqbE-AL) D Dreamer: 差点火灭了
+[01:30:03]: [Death Announcement] D Dreamer 死亡，死因： 火.他成了一个令人毛骨悚然的鬼！
+[01:31:22]: [Say] (KU_cSqbE-AL) D Dreamer: 一把火...
+[01:31:32]: [Say] (KU_cSqbE-AL) D Dreamer: 冬天的一把火...
+[01:31:46]: [Say] (KU_cSqbE-AL) D Dreamer: 蜘蛛森林没了...
+[01:35:36]: [Say] (KU_X-4JQOXc) maliut: 在家里绝赞挂机中‘
+[01:35:58]: [Say] (KU_cSqbE-AL) D Dreamer: 很赞
+[01:36:59]: [Resurrect Announcement] D Dreamer 复活自 恶魔之门.
+[01:49:44]: [Say] (KU_cSqbE-AL) D Dreamer: 我先去休息会儿...
+[01:49:50]: [Say] (KU_cSqbE-AL) D Dreamer: 先退了...
+[01:49:54]: [Say] (KU_X-4JQOXc) maliut: ok
+[01:50:06]: [Leave Announcement] D Dreamer
+[02:48:54]: [Leave Announcement] P.I.E
+[02:50:45]: [Leave Announcement] duocai
+[02:52:01]: [Join Announcement] P.I.E
+[02:52:49]: [Join Announcement] duocai
+[02:55:56]: [Skin Announcement] 读书人罢了 body_trimmed_blouse_white_pure
+[03:14:49]: [Death Announcement] duocai 死亡，死因： 皮弗娄牛.她成了一个令人毛骨悚然的鬼！
+[03:19:43]: [Roll Announcement] (KU_nxw0IPS6) duocai 18 (1-100)
+[03:30:41]: [Skin Announcement] 读书人罢了 body_buttons_blue_sky
+[03:53:03]: [Leave Announcement] duocai
+[03:55:36]: [Leave Announcement] P.I.E
+[03:56:15]: [Leave Announcement] 读书人罢了

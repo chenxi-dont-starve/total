@@ -1,0 +1,786 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 40%
+	Available Physical Memory: 9692m/16336m
+	Available Page File: 8796m/18768m
+	Available Virtual Memory: 3969m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 29m
+	Working Set Size: 29m
+	Quota Peak Page Pool Usage: 247k
+	Quota Page Pool Usage: 234k
+	Quota Peak Non Paged Pool Usage:17k
+	Quota Non Paged Pool Usage: 16k
+	Page File Usage: 5m
+	Peak Page File Usage: 5m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 218082
+[00:00:00]: Current time: Sat Jun 03 23:13:01 2017
+
+[00:00:00]: Don't Starve Together: 218082 WIN32_STEAM
+[00:00:00]: Build Date: 1996
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:01]: Steam AppBuildID: 1846970
+[00:00:01]: ....Done
+[00:00:01]: Fixing DPI
+[00:00:01]: ...Done
+[00:00:01]: THREAD - started 'GAClient' (13564)
+[00:00:01]: CurlRequestManager::ClientThread::Main()
+[00:00:01]: ProfileIndex:3.44
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Authorized application D:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\bin\dontstarve_steam.exe is enabled in the firewall.
+[00:00:01]: WindowsFirewall - Application already authorized
+[00:00:01]: THREAD - started 'ConsoleInput' (8100)
+[00:00:01]: loaded ping_cache
+[00:00:01]: Offline user ID: OU_76561198139846162
+[00:00:01]: SteamID: 76561198139846162
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 企业版
+    version                   10.0.15063
+    architecture              64 位
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+    manufacturer              GenuineIntel
+    clockSpeed                3201
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    name                      NVIDIA GeForce GTX 960
+    driverDate                20170501000000.000000-000
+    megsOfRam                 4095
+    refreshRate               60
+    videoModeDescription      1920 x 1080 x 4294967296 种颜色
+    driverVersion             22.21.13.8205
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: WindowManager::Initialize
+[00:00:01]: CreateWindow: Requesting 1287,723 - 5/6/5 - -1/-1/-1 - 0
+[00:00:01]: CreateEGLContext: 12 configs found
+[00:00:01]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:01]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:01]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:01]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:01]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:01]:      5: 5/5/5 -  0/16/ 0 - 0
+[00:00:01]:      6: 5/5/5 -  0/24/ 0 - 0
+[00:00:01]:      7: 5/5/5 -  0/24/ 8 - 0
+[00:00:01]:      8: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:01]:      9: 8/8/8 -  8/16/ 0 - 0
+[00:00:01]:     10: 8/8/8 -  8/24/ 0 - 0
+[00:00:01]:     11: 8/8/8 -  8/24/ 8 - 0
+[00:00:01]: RestoreWindowPosition
+[00:00:01]:    Saved Client Pos (248 x 176)
+[00:00:01]:    Adjusted Window Pos (240 x 145)
+[00:00:01]: EnsureWindowOnScreen
+[00:00:01]:    All good.
+[00:00:01]: GLInfo
+[00:00:01]: ~~~~~~
+[00:00:01]: GL_VENDOR: Google Inc.
+[00:00:01]: GL_RENDERER: ANGLE (NVIDIA GeForce GTX 960)
+[00:00:01]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:01]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:01]: OpenGL extensions (19, 19):
+[00:00:01]: GL_ANGLE_depth_texture
+[00:00:01]: GL_ANGLE_framebuffer_blit
+[00:00:01]: GL_ANGLE_framebuffer_multisample
+[00:00:01]: GL_ANGLE_instanced_arrays
+[00:00:01]: GL_ANGLE_pack_reverse_row_order
+[00:00:01]: GL_ANGLE_texture_compression_dxt3
+[00:00:01]: GL_ANGLE_texture_compression_dxt5
+[00:00:01]: GL_ANGLE_texture_usage
+[00:00:01]: GL_ANGLE_translated_shader_source
+[00:00:01]: GL_EXT_read_format_bgra
+[00:00:01]: GL_EXT_robustness
+[00:00:01]: GL_EXT_texture_compression_dxt1
+[00:00:01]: GL_EXT_texture_format_BGRA8888
+[00:00:01]: GL_EXT_texture_storage
+[00:00:01]: GL_OES_get_program_binary
+[00:00:01]: GL_OES_packed_depth_stencil
+[00:00:01]: GL_OES_rgb8_rgba8
+[00:00:01]: GL_OES_standard_derivatives
+[00:00:01]: GL_OES_texture_npot
+[00:00:01]: THREAD - started 'WindowsInputManager' (19960)
+[00:00:01]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:01]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:01]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:01]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:01]: GL_MAX_VARYING_VECTORS = 10
+[00:00:01]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:01]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:01]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:01]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:01]: 4 compressed texture formats
+[00:00:01]: texture format 0x83f0
+[00:00:01]: texture format 0x83f1
+[00:00:01]: texture format 0x83f2
+[00:00:01]: texture format 0x83f3
+[00:00:01]: Renderer initialize: Okay
+[00:00:02]: AnimManager initialize: Okay
+[00:00:02]: Buffers initialize: Okay
+[00:00:02]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:02]: GameSpecific initialize: Okay
+[00:00:02]: cGame::StartPlaying
+[00:00:02]: LOADING LUA
+[00:00:02]: DoLuaFile scripts/main.lua
+[00:00:02]: DoLuaFile loading buffer scripts/main.lua
+[00:00:02]: running main.lua
+	
+[00:00:02]: loaded modindex	
+[00:00:02]: ModIndex: Beginning normal load sequence.
+	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-367546858	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-345692228	
+[00:00:02]: Loading mod: workshop-345692228 (Minimap HUD) Version:1.0.7	
+[00:00:02]: loaded mod_config_data/modconfiguration_workshop-351325790	
+[00:00:02]: Loading mod: workshop-351325790 (Geometric Placement) Version:2.1.8	
+[00:00:02]: loaded mod_config_data/modconfiguration_workshop-367546858	
+[00:00:02]: Loading mod: workshop-367546858 (Chinese Language Pack) Version:2.8.2	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-376333686	
+[00:00:02]: Loading mod: workshop-376333686 (Combined Status) Version:1.6.19	
+[00:00:02]: Mod: workshop-345692228 (Minimap HUD)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-345692228 (Minimap HUD)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-345692228 (Minimap HUD)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-376333686 (Combined Status)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-376333686 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-376333686 (Combined Status)	Loading modmain.lua	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-367546858	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:00:02]: Mod: workshop-367546858 (Chinese Language Pack)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-367546858 (Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-367546858 (Chinese Language Pack)	Loading modmain.lua	
+[00:00:02]: Translator:LoadPOFile - loading file: ../mods/workshop-367546858/DST_chs.po	
+[00:00:02]: [Chinses] 据STEAM语言加载简体翻译成功！	
+[00:00:02]: Mod: workshop-351325790 (Geometric Placement)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-351325790 (Geometric Placement)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-351325790 (Geometric Placement)	Loading modmain.lua	
+[00:00:04]: LOADING LUA SUCCESS
+[00:00:04]: PlayerDeaths loaded morgue	2624	
+[00:00:04]: PlayerHistory loaded player_history	1373	
+[00:00:04]: bloom_enabled	false	
+[00:00:04]: loaded saveindex	
+[00:00:04]: OnFilesLoaded()	
+[00:00:04]: OnUpdatePurchaseStateComplete	
+[00:00:06]: Mod: workshop-345692228 (Minimap HUD)	Registering prefabs	
+[00:00:06]: Mod: workshop-345692228 (Minimap HUD)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-376333686 (Combined Status)	Registering prefabs	
+[00:00:06]: Mod: workshop-376333686 (Combined Status)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-367546858 (Chinese Language Pack)	Registering prefabs	
+[00:00:06]: Mod: workshop-367546858 (Chinese Language Pack)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-351325790 (Geometric Placement)	Registering prefabs	
+[00:00:06]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/buildgridplacer	
+[00:00:06]: Mod: workshop-351325790 (Geometric Placement)	    buildgridplacer	
+[00:00:06]: Mod: workshop-351325790 (Geometric Placement)	  Registering default mod prefab	
+[00:00:06]: 	Load FE	
+[00:00:06]: 	Load FE: done	
+[00:00:06]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:06]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:06]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:06]: SimLuaProxy::QueryServer()
+[00:00:06]: ModIndex: Load sequence finished successfully.	
+[00:00:06]: Reset() returning
+[00:00:09]: [Steam] Auth Session Ticket requested...
+[00:00:09]: [Steam] Got Auth Session Ticket
+[00:00:11]: [200] Account Communication Success (3)
+[00:00:11]: loaded inventory_cache
+[00:00:11]: Logging in as KU_X-4JQOXc
+[00:00:12]: CURL ERROR: (s3.amazonaws.com) Connection timed out after 5000 milliseconds
+[00:00:13]: loaded inventory_cache
+[00:00:14]: SimLuaProxy::QueryServer()
+[00:00:21]: DownloadPublishedFileV2()
+[00:00:21]: OnDownloadPublishedFileResultV2 
+[00:00:21]:    EResult 1, 529544281346802040
+[00:00:21]:    245850, 271856, [mod_publish_data_file.zip], 76561198049829886
+[00:00:21]: DownloadPublishedFileV2()
+[00:00:21]: THREAD - started 'cUnpackModThread' (14564)
+[00:00:21]: DelDirectory [../mods/workshop-347079953] 2: FAILED
+[00:00:21]: cWorkshopMod::UnzipMod ../mods/workshop-347079953
+[00:00:21]: OnDownloadPublishedFileResultV2 
+[00:00:21]:    EResult 1, 107357223490494217
+[00:00:21]:    245850, 31870, [mod_publish_data_file.zip], 76561198025486794
+[00:00:21]: DownloadPublishedFileV2()
+[00:00:21]: THREAD - started 'cUnpackModThread' (14764)
+[00:00:21]: DelDirectory [../mods/workshop-375859599] 2: FAILED
+[00:00:21]: cWorkshopMod::UnzipMod ../mods/workshop-375859599
+[00:00:21]: OnDownloadPublishedFileResultV2 
+[00:00:21]:    EResult 1, 609478105747897135
+[00:00:21]:    245850, 75803, [mod_publish_data_file.zip], 76561198027077262
+[00:00:21]: THREAD - started 'cUnpackModThread' (3776)
+[00:00:21]: DelDirectory [../mods/workshop-362175979] 2: FAILED
+[00:00:21]: cWorkshopMod::UnzipMod ../mods/workshop-362175979
+[00:00:27]: QueryStats: { "req":"modrank", "field":"Session.Loads.Mods.list", "fieldop":"unwind", "linkpref":"external", "limit": 20}
+[00:00:27]: Frontend-Unloading mod 'all'.	
+[00:00:27]: loaded mod_config_data/modconfiguration_workshop-729309574	
+[00:00:27]: loaded mod_config_data/modconfiguration_workshop-897634060	
+[00:00:27]: loaded mod_config_data/modconfiguration_workshop-727325644	
+[00:00:27]: loaded mod_config_data/modconfiguration_workshop-721491336	
+[00:00:27]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[00:00:27]: loaded mod_config_data/modconfiguration_workshop-723721217	
+[00:00:27]: loaded mod_config_data/modconfiguration_workshop-737441707	
+[00:00:27]: FrontendLoadMod	workshop-897634060	
+[00:00:27]: loaded mod_config_data/modconfiguration_workshop-897634060	
+[00:00:27]: Fontend-Loading mod: workshop-897634060 (DD Shigure) Version:1.0.3	
+[00:00:27]: Mod: workshop-897634060 (DD Shigure)	Loading modworldgenmain.lua	
+[00:00:27]: Mod: workshop-897634060 (DD Shigure)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:27]: FrontendLoadMod	workshop-378160973	
+[00:00:27]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[00:00:27]: Fontend-Loading mod: workshop-378160973 (Global Positions) Version:1.6.6	
+[00:00:27]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:27]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:27]: FrontendLoadMod	workshop-737441707	
+[00:00:27]: loaded mod_config_data/modconfiguration_workshop-737441707	
+[00:00:27]: Fontend-Loading mod: workshop-737441707 (DD Shiranui) Version:1.1.2	
+[00:00:27]: Mod: workshop-737441707 (DD Shiranui)	Loading modworldgenmain.lua	
+[00:00:27]: Mod: workshop-737441707 (DD Shiranui)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:27]: FrontendLoadMod	workshop-729309574	
+[00:00:27]: loaded mod_config_data/modconfiguration_workshop-729309574	
+[00:00:27]: Fontend-Loading mod: workshop-729309574 (DD Akatsuki) Version:1.1.3	
+[00:00:27]: Mod: workshop-729309574 (DD Akatsuki)	Loading modworldgenmain.lua	
+[00:00:27]: Mod: workshop-729309574 (DD Akatsuki)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:27]: FrontendLoadMod	workshop-721491336	
+[00:00:27]: loaded mod_config_data/modconfiguration_workshop-721491336	
+[00:00:27]: Fontend-Loading mod: workshop-721491336 (DD Hibiki) Version:1.5.0b	
+[00:00:27]: Mod: workshop-721491336 (DD Hibiki)	Loading modworldgenmain.lua	
+[00:00:27]: Mod: workshop-721491336 (DD Hibiki)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:27]: FrontendLoadMod	workshop-727325644	
+[00:00:27]: loaded mod_config_data/modconfiguration_workshop-727325644	
+[00:00:27]: Fontend-Loading mod: workshop-727325644 (DD Ikazuchi) Version:1.2.5	
+[00:00:27]: Mod: workshop-727325644 (DD Ikazuchi)	Loading modworldgenmain.lua	
+[00:00:27]: Mod: workshop-727325644 (DD Ikazuchi)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:27]: FrontendLoadMod	workshop-723721217	
+[00:00:27]: loaded mod_config_data/modconfiguration_workshop-723721217	
+[00:00:27]: Fontend-Loading mod: workshop-723721217 (DD Inazuma) Version:1.2.6	
+[00:00:27]: Mod: workshop-723721217 (DD Inazuma)	Loading modworldgenmain.lua	
+[00:00:27]: Mod: workshop-723721217 (DD Inazuma)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:43]: FrontendLoadMod	workshop-347079953	
+[00:00:43]: Could not load mod_config_data/modconfiguration_workshop-347079953	
+[00:00:43]: Fontend-Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[00:00:43]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[00:00:43]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:44]: FrontendLoadMod	workshop-375859599	
+[00:00:44]: Could not load mod_config_data/modconfiguration_workshop-375859599	
+[00:00:44]: Fontend-Loading mod: workshop-375859599 (Health Info) Version:2.1.5	
+[00:00:44]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:44]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:45]: FrontendLoadMod	workshop-362175979	
+[00:00:45]: Could not load mod_config_data/modconfiguration_workshop-362175979	
+[00:00:45]: Fontend-Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
+[00:00:45]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
+[00:00:45]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:47]: loaded mod_config_data/modconfiguration_workshop-897634060	
+[00:00:47]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[00:00:47]: loaded mod_config_data/modconfiguration_workshop-737441707	
+[00:00:47]: loaded mod_config_data/modconfiguration_workshop-729309574	
+[00:00:47]: Could not load mod_config_data/modconfiguration_workshop-347079953	
+[00:00:47]: loaded mod_config_data/modconfiguration_workshop-721491336	
+[00:00:47]: Could not load mod_config_data/modconfiguration_workshop-362175979	
+[00:00:47]: loaded mod_config_data/modconfiguration_workshop-727325644	
+[00:00:47]: loaded mod_config_data/modconfiguration_workshop-723721217	
+[00:00:47]: Could not load mod_config_data/modconfiguration_workshop-375859599	
+[00:00:47]: [IPC] Signal 'DST_Master_Starting' created  #00000A48
+[00:00:47]: [IPC] Clearing pending signals #00000A48...
+[00:00:47]: [IPC] Registering handler for signal #00000A48
+[00:00:47]: [IPC] Handle #00000A48 added to the Eventhandles
+[00:00:47]: [IPC] Signal 'DST_Master_WorldGen' created  #00000A4C
+[00:00:47]: [IPC] Clearing pending signals #00000A4C...
+[00:00:47]: [IPC] Registering handler for signal #00000A4C
+[00:00:47]: [IPC] Handle #00000A4C added to the Eventhandles
+[00:00:47]: [IPC] Signal 'DST_Master_Ready' created  #00000A30
+[00:00:47]: [IPC] Clearing pending signals #00000A30...
+[00:00:47]: [IPC] Registering handler for signal #00000A30
+[00:00:47]: [IPC] Handle #00000A30 added to the Eventhandles
+[00:00:47]: [IPC] Signal 'DST_Master_ErrPort' created  #00000A1C
+[00:00:47]: [IPC] Clearing pending signals #00000A1C...
+[00:00:47]: [IPC] Registering handler for signal #00000A1C
+[00:00:47]: [IPC] Handle #00000A1C added to the Eventhandles
+[00:00:47]: [IPC] Signal 'DST_Master_ErrStartup' created  #00000A20
+[00:00:47]: [IPC] Clearing pending signals #00000A20...
+[00:00:47]: [IPC] Registering handler for signal #00000A20
+[00:00:47]: [IPC] Handle #00000A20 added to the Eventhandles
+[00:00:47]: [IPC] Signal 'DST_Master_Kill' created  #00000A24
+[00:00:47]: [IPC] Clearing pending signals #00000A24...
+[00:00:47]: [IPC] Signal 'DST_Slave_Starting' created  #000009FC
+[00:00:47]: [IPC] Clearing pending signals #000009FC...
+[00:00:47]: [IPC] Registering handler for signal #000009FC
+[00:00:47]: [IPC] Handle #000009FC added to the Eventhandles
+[00:00:47]: [IPC] Signal 'DST_Slave_WorldGen' created  #00000718
+[00:00:47]: [IPC] Clearing pending signals #00000718...
+[00:00:47]: [IPC] Registering handler for signal #00000718
+[00:00:47]: [IPC] Handle #00000718 added to the Eventhandles
+[00:00:47]: [IPC] Signal 'DST_Slave_Ready' created  #00000A34
+[00:00:47]: [IPC] Clearing pending signals #00000A34...
+[00:00:47]: [IPC] Registering handler for signal #00000A34
+[00:00:47]: [IPC] Handle #00000A34 added to the Eventhandles
+[00:00:47]: [IPC] Signal 'DST_Slave_ErrPort' created  #00000A50
+[00:00:47]: [IPC] Clearing pending signals #00000A50...
+[00:00:47]: [IPC] Registering handler for signal #00000A50
+[00:00:47]: [IPC] Handle #00000A50 added to the Eventhandles
+[00:00:47]: [IPC] Signal 'DST_Slave_ErrStartup' created  #00000A44
+[00:00:47]: [IPC] Clearing pending signals #00000A44...
+[00:00:47]: [IPC] Registering handler for signal #00000A44
+[00:00:47]: [IPC] Handle #00000A44 added to the Eventhandles
+[00:00:47]: [IPC] Signal 'DST_Slave_Kill' created  #00000A54
+[00:00:47]: [IPC] Clearing pending signals #00000A54...
+[00:00:53]: [IPC] Received DST_Master Starting signal !
+[00:00:53]: [IPC] Received DST_Slave Starting signal !
+[00:01:05]: [IPC] Received DST_Master Ready signal !
+[00:01:12]: [IPC] Received DST_Slave Ready signal !
+[00:01:12]: [Connect] Init client connection to 127.0.0.1|10999
+[00:01:12]: [Connect] PendingConnection::Reset(true)
+[00:01:12]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:01:12]: [Connect] InternalInitClient <4593978608642962163>
+[00:01:12]: [Shard] Starting shard mode as player
+[00:01:12]: [Connect] No server listing found for <UNASSIGNED_RAKNET_GUID>
+[00:01:12]: [Connect] Sending ping(s)...
+[00:01:12]: [Connect] Ping 127.0.0.1|10999
+[00:01:12]: [Connect] Ping response from 127.0.0.1|10999
+[00:01:12]: [Connect] Joining server from ping response...
+[00:01:12]: Friends are currently playing in 0 games(s)!
+[00:01:12]: You belong to 48 clan(s)!
+[00:01:12]: [Connect] Got join server response from lua
+[00:01:13]: [200] Account Communication Success (13)
+[00:01:13]: [Connect] PendingConnectionDoConnect to 127.0.0.1|10999
+[00:01:13]: [Connect] DirectConnect to 127.0.0.1|10999
+[00:01:13]: Connection accepted to 127.0.0.1|10999 <2998062490211483206>
+[00:01:13]: Network external address discovered: 127.0.0.1|58631
+[00:01:13]: SendClientHandShakePacket "pgs-sing^KU_X-4JQOXc^DontStarveTogether^uv1YT1WxdHZs5EUkI6eZHWpXgbZTmLJkSVFn/sqfhTM=" to <2998062490211483206>
+[00:01:13]: DeserializeHandShakeServerListing
+[00:01:13]: Network tick rate: U=10(3), D=15
+[00:01:13]: Version: 218082
+[00:01:13]: [Steam] Game Connection initiated
+[00:01:13]: SendClientInventoryHandShakePacket to <2998062490211483206>
+[00:01:14]: Begin Session: 0B9815CFD2761F92
+[00:01:14]: Done Downloading Client Object Data
+[00:01:14]: DownloadMods and temp disable	
+[00:01:14]: We now have the required mods, enable them for server	
+[00:01:14]: Temp Enabling workshop-727325644	
+[00:01:14]: Temp Enabling workshop-897634060	
+[00:01:14]: Temp Enabling workshop-378160973	
+[00:01:14]: Temp Enabling workshop-737441707	
+[00:01:14]: Temp Enabling workshop-729309574	
+[00:01:14]: Temp Enabling workshop-347079953	
+[00:01:14]: Temp Enabling workshop-362175979	
+[00:01:14]: Temp Enabling workshop-721491336	
+[00:01:14]: Temp Enabling workshop-723721217	
+[00:01:14]: Temp Enabling workshop-375859599	
+[00:01:14]: ModIndex:SetTempModConfigData	
+[00:01:14]: Setting temp mod config for mod 	workshop-897634060	
+[00:01:14]: Setting temp mod config for mod 	workshop-347079953	
+[00:01:14]: Setting temp mod config for mod 	workshop-737441707	
+[00:01:14]: Setting temp mod config for mod 	workshop-729309574	
+[00:01:14]: Setting temp mod config for mod 	workshop-727325644	
+[00:01:14]: Setting temp mod config for mod 	workshop-362175979	
+[00:01:14]: Setting temp mod config for mod 	workshop-721491336	
+[00:01:14]: Setting temp mod config for mod 	workshop-378160973	
+[00:01:14]: Setting temp mod config for mod 	workshop-723721217	
+[00:01:14]: Setting temp mod config for mod 	workshop-375859599	
+[00:01:14]: Mods are setup for server, save the mod index and proceed.	
+[00:01:14]: Downloading [0] From: server_temp
+[00:01:14]: 0 (37%) 1/1 server_temp\server_save 114000b / 304371b
+[00:01:14]: 0 (74%) 1/1 server_temp\server_save 228000b / 304371b
+[00:01:14]: 0 (100%) 1/1 server_temp\server_save 304371b / 304371b
+[00:01:14]: Download complete[0] Files: 1 Size: 304371
+[00:01:16]: unloading prefabs for mod MOD_workshop-345692228	
+[00:01:16]: unloading prefabs for mod MOD_workshop-376333686	
+[00:01:16]: unloading prefabs for mod MOD_workshop-367546858	
+[00:01:16]: unloading prefabs for mod MOD_workshop-351325790	
+[00:01:16]: Collecting garbage...
+[00:01:16]: lua_gc took 0.02 seconds
+[00:01:16]: ~ShardLuaProxy()
+[00:01:16]: ~ItemServerLuaProxy()
+[00:01:16]: ~InventoryLuaProxy()
+[00:01:16]: ~NetworkLuaProxy()
+[00:01:16]: ~SimLuaProxy()
+[00:01:16]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:01:16]: lua_close took 0.04 seconds
+[00:01:16]: ReleaseAll
+[00:01:16]: ReleaseAll Finished
+[00:01:16]: cGame::StartPlaying
+[00:01:17]: LOADING LUA
+[00:01:17]: DoLuaFile scripts/main.lua
+[00:01:17]: DoLuaFile loading buffer scripts/main.lua
+[00:01:17]: running main.lua
+	
+[00:01:17]: loaded modindex	
+[00:01:17]: ModIndex: Beginning normal load sequence.
+	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-367546858	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-721491336	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-723721217	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-727325644	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-729309574	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-737441707	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-897634060	
+[00:01:17]: Could not load mod_config_data/modconfiguration_workshop-345692228	
+[00:01:17]: Loading mod: workshop-345692228 (Minimap HUD) Version:1.0.7	
+[00:01:17]: Could not load mod_config_data/modconfiguration_workshop-347079953_CLIENT	
+[00:01:17]: Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[00:01:17]: loaded mod_config_data/modconfiguration_workshop-351325790	
+[00:01:17]: Loading mod: workshop-351325790 (Geometric Placement) Version:2.1.8	
+[00:01:17]: Could not load mod_config_data/modconfiguration_workshop-362175979_CLIENT	
+[00:01:17]: Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
+[00:01:17]: loaded mod_config_data/modconfiguration_workshop-367546858	
+[00:01:17]: Loading mod: workshop-367546858 (Chinese Language Pack) Version:2.8.2	
+[00:01:17]: Could not load mod_config_data/modconfiguration_workshop-375859599_CLIENT	
+[00:01:17]: Loading mod: workshop-375859599 (Health Info) Version:2.1.5	
+[00:01:17]: Could not load mod_config_data/modconfiguration_workshop-376333686	
+[00:01:17]: Loading mod: workshop-376333686 (Combined Status) Version:1.6.19	
+[00:01:17]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:01:17]: Loading mod: workshop-378160973 (Global Positions) Version:1.6.6	
+[00:01:17]: Could not load mod_config_data/modconfiguration_workshop-721491336_CLIENT	
+[00:01:17]: Loading mod: workshop-721491336 (DD Hibiki) Version:1.5.0b	
+[00:01:17]: Could not load mod_config_data/modconfiguration_workshop-723721217_CLIENT	
+[00:01:17]: Loading mod: workshop-723721217 (DD Inazuma) Version:1.2.6	
+[00:01:17]: Could not load mod_config_data/modconfiguration_workshop-727325644_CLIENT	
+[00:01:17]: Loading mod: workshop-727325644 (DD Ikazuchi) Version:1.2.5	
+[00:01:17]: Could not load mod_config_data/modconfiguration_workshop-729309574_CLIENT	
+[00:01:17]: Loading mod: workshop-729309574 (DD Akatsuki) Version:1.1.3	
+[00:01:17]: Could not load mod_config_data/modconfiguration_workshop-737441707_CLIENT	
+[00:01:17]: Loading mod: workshop-737441707 (DD Shiranui) Version:1.1.2	
+[00:01:17]: Could not load mod_config_data/modconfiguration_workshop-897634060_CLIENT	
+[00:01:17]: Loading mod: workshop-897634060 (DD Shigure) Version:1.0.3	
+[00:01:17]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[00:01:17]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:17]: Mod: workshop-347079953 (Display food values)	Loading modmain.lua	
+[00:01:17]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:01:17]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:17]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:01:17]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:01:17]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
+[00:01:17]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:17]: Mod: workshop-362175979 (Wormhole Marks)	Loading modmain.lua	
+[00:01:17]: Mod: workshop-345692228 (Minimap HUD)	Loading modworldgenmain.lua	
+[00:01:17]: Mod: workshop-345692228 (Minimap HUD)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:17]: Mod: workshop-345692228 (Minimap HUD)	Loading modmain.lua	
+[00:01:17]: Mod: workshop-737441707 (DD Shiranui)	Loading modworldgenmain.lua	
+[00:01:17]: Mod: workshop-737441707 (DD Shiranui)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:17]: Mod: workshop-737441707 (DD Shiranui)	Loading modmain.lua	
+[00:01:17]: Mod: workshop-897634060 (DD Shigure)	Loading modworldgenmain.lua	
+[00:01:17]: Mod: workshop-897634060 (DD Shigure)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:17]: Mod: workshop-897634060 (DD Shigure)	Loading modmain.lua	
+[00:01:17]: Mod: workshop-723721217 (DD Inazuma)	Loading modworldgenmain.lua	
+[00:01:17]: Mod: workshop-723721217 (DD Inazuma)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:17]: Mod: workshop-723721217 (DD Inazuma)	Loading modmain.lua	
+[00:01:17]: Mod: workshop-727325644 (DD Ikazuchi)	Loading modworldgenmain.lua	
+[00:01:17]: Mod: workshop-727325644 (DD Ikazuchi)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:17]: Mod: workshop-727325644 (DD Ikazuchi)	Loading modmain.lua	
+[00:01:17]: Mod: workshop-721491336 (DD Hibiki)	Loading modworldgenmain.lua	
+[00:01:17]: Mod: workshop-721491336 (DD Hibiki)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:17]: Mod: workshop-721491336 (DD Hibiki)	Loading modmain.lua	
+[00:01:17]: modimport: ../mods/workshop-721491336/scripts/skins_hibiki.lua	
+[00:01:17]: Mod: workshop-729309574 (DD Akatsuki)	Loading modworldgenmain.lua	
+[00:01:17]: Mod: workshop-729309574 (DD Akatsuki)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:17]: Mod: workshop-729309574 (DD Akatsuki)	Loading modmain.lua	
+[00:01:17]: Mod: workshop-376333686 (Combined Status)	Loading modworldgenmain.lua	
+[00:01:17]: Mod: workshop-376333686 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:17]: Mod: workshop-376333686 (Combined Status)	Loading modmain.lua	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-367546858	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-721491336	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-723721217	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-727325644	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-729309574	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-737441707	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-897634060	
+[00:01:17]: Mod: workshop-367546858 (Chinese Language Pack)	Loading modworldgenmain.lua	
+[00:01:17]: Mod: workshop-367546858 (Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:17]: Mod: workshop-367546858 (Chinese Language Pack)	Loading modmain.lua	
+[00:01:17]: Translator:LoadPOFile - loading file: ../mods/workshop-367546858/DST_chs.po	
+[00:01:17]: [Chinses] 据STEAM语言加载简体翻译成功！	
+[00:01:17]: Mod: workshop-351325790 (Geometric Placement)	Loading modworldgenmain.lua	
+[00:01:17]: Mod: workshop-351325790 (Geometric Placement)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:17]: Mod: workshop-351325790 (Geometric Placement)	Loading modmain.lua	
+[00:01:17]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:01:17]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:17]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-367546858	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-721491336	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-723721217	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-727325644	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-729309574	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-737441707	
+[00:01:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-897634060	
+[00:01:17]: LOADING LUA SUCCESS
+[00:01:17]: Registering mod namespace "workshop-378160973"
+[00:01:17]: Registering mod namespace "food item"
+[00:01:17]: PlayerDeaths loaded morgue	2624	
+[00:01:17]: PlayerHistory loaded player_history	1373	
+[00:01:17]: bloom_enabled	false	
+[00:01:17]: loaded saveindex	
+[00:01:17]: OnFilesLoaded()	
+[00:01:17]: OnUpdatePurchaseStateComplete	
+[00:01:17]: 	Unload FE	
+[00:01:17]: 	Unload FE done	
+[00:01:19]: Mod: workshop-347079953 (Display food values)	Registering prefabs	
+[00:01:19]: Mod: workshop-347079953 (Display food values)	  Registering default mod prefab	
+[00:01:19]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:01:19]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:01:19]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
+[00:01:19]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
+[00:01:19]: Mod: workshop-345692228 (Minimap HUD)	Registering prefabs	
+[00:01:19]: Mod: workshop-345692228 (Minimap HUD)	  Registering default mod prefab	
+[00:01:19]: Mod: workshop-737441707 (DD Shiranui)	Registering prefabs	
+[00:01:19]: Mod: workshop-737441707 (DD Shiranui)	  Registering prefab file: prefabs/shiranui	
+[00:01:19]: Mod: workshop-737441707 (DD Shiranui)	    shiranui	
+[00:01:19]: Mod: workshop-737441707 (DD Shiranui)	  Registering prefab file: prefabs/shiranui_none	
+[00:01:19]: Mod: workshop-737441707 (DD Shiranui)	    shiranui_none	
+[00:01:19]: Mod: workshop-737441707 (DD Shiranui)	  Registering default mod prefab	
+[00:01:19]: Mod: workshop-897634060 (DD Shigure)	Registering prefabs	
+[00:01:19]: Mod: workshop-897634060 (DD Shigure)	  Registering prefab file: prefabs/shigure	
+[00:01:19]: Mod: workshop-897634060 (DD Shigure)	    shigure	
+[00:01:19]: Mod: workshop-897634060 (DD Shigure)	  Registering prefab file: prefabs/shigure_none	
+[00:01:19]: Mod: workshop-897634060 (DD Shigure)	    shigure_none	
+[00:01:19]: Mod: workshop-897634060 (DD Shigure)	  Registering default mod prefab	
+[00:01:19]: Mod: workshop-723721217 (DD Inazuma)	Registering prefabs	
+[00:01:19]: Mod: workshop-723721217 (DD Inazuma)	  Registering prefab file: prefabs/inazuma	
+[00:01:19]: Mod: workshop-723721217 (DD Inazuma)	    inazuma	
+[00:01:19]: Mod: workshop-723721217 (DD Inazuma)	  Registering prefab file: prefabs/inazuma_none	
+[00:01:19]: Mod: workshop-723721217 (DD Inazuma)	    inazuma_none	
+[00:01:19]: Mod: workshop-723721217 (DD Inazuma)	  Registering default mod prefab	
+[00:01:19]: Mod: workshop-727325644 (DD Ikazuchi)	Registering prefabs	
+[00:01:19]: Mod: workshop-727325644 (DD Ikazuchi)	  Registering prefab file: prefabs/ikazuchi	
+[00:01:19]: Mod: workshop-727325644 (DD Ikazuchi)	    ikazuchi	
+[00:01:19]: Mod: workshop-727325644 (DD Ikazuchi)	  Registering prefab file: prefabs/ikazuchi_none	
+[00:01:19]: Mod: workshop-727325644 (DD Ikazuchi)	    ikazuchi_none	
+[00:01:19]: Mod: workshop-727325644 (DD Ikazuchi)	  Registering prefab file: prefabs/anchor	
+[00:01:19]: Mod: workshop-727325644 (DD Ikazuchi)	    anchor	
+[00:01:19]: Mod: workshop-727325644 (DD Ikazuchi)	  Registering default mod prefab	
+[00:01:19]: Mod: workshop-721491336 (DD Hibiki)	Registering prefabs	
+[00:01:19]: Mod: workshop-721491336 (DD Hibiki)	  Registering prefab file: prefabs/hibiki	
+[00:01:19]: Mod: workshop-721491336 (DD Hibiki)	    hibiki	
+[00:01:19]: Mod: workshop-721491336 (DD Hibiki)	  Registering prefab file: prefabs/hibiki_none	
+[00:01:19]: Mod: workshop-721491336 (DD Hibiki)	    hibiki_none	
+[00:01:19]: Mod: workshop-721491336 (DD Hibiki)	  Registering default mod prefab	
+[00:01:19]: Mod: workshop-729309574 (DD Akatsuki)	Registering prefabs	
+[00:01:19]: Mod: workshop-729309574 (DD Akatsuki)	  Registering prefab file: prefabs/akatsuki	
+[00:01:19]: Mod: workshop-729309574 (DD Akatsuki)	    akatsuki	
+[00:01:19]: Mod: workshop-729309574 (DD Akatsuki)	  Registering prefab file: prefabs/akatsuki_none	
+[00:01:19]: Mod: workshop-729309574 (DD Akatsuki)	    akatsuki_none	
+[00:01:19]: Mod: workshop-729309574 (DD Akatsuki)	  Registering default mod prefab	
+[00:01:20]: Mod: workshop-376333686 (Combined Status)	Registering prefabs	
+[00:01:20]: Mod: workshop-376333686 (Combined Status)	  Registering default mod prefab	
+[00:01:20]: Mod: workshop-367546858 (Chinese Language Pack)	Registering prefabs	
+[00:01:20]: Mod: workshop-367546858 (Chinese Language Pack)	  Registering default mod prefab	
+[00:01:20]: Mod: workshop-351325790 (Geometric Placement)	Registering prefabs	
+[00:01:20]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/buildgridplacer	
+[00:01:20]: Mod: workshop-351325790 (Geometric Placement)	    buildgridplacer	
+[00:01:20]: Mod: workshop-351325790 (Geometric Placement)	  Registering default mod prefab	
+[00:01:20]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:01:20]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:01:20]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:01:20]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:01:20]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:01:20]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:01:20]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:01:20]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:01:20]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:01:20]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:01:20]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:01:20]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:01:20]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:01:20]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:01:20]: 	LOAD BE	
+[00:01:22]: 	LOAD BE: done	
+[00:01:22]: Loading world: client_temp/server_save	
+[00:01:22]: Save file is at version 4.77	
+[00:01:22]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_1.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_2.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_3.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_4.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_5.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_6.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_7.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_8.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_9.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_10.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_11.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_12.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_13.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_14.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_15.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_16.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_17.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_18.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_19.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_20.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_21.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_22.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-737441707/images/map_icons/shiranui.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-897634060/images/map_icons/shigure.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-723721217/images/map_icons/inazuma.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-727325644/images/map_icons/ikazuchi.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-721491336/images/map_icons/hibiki.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-721491336/images/map_icons/verniy.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-721491336/images/map_icons/hibiki_gangut.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-721491336/images/map_icons/verniy_gangut.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-729309574/images/map_icons/akatsuki.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:01:23]: Loading Nav Grid	
+[00:01:23]: setting 	summerlength	15	
+[00:01:23]: setting 	isnightmaredawn	false	
+[00:01:23]: setting 	elapseddaysinseason	8	
+[00:01:23]: setting 	isfullmoon	false	
+[00:01:23]: setting 	moisture	632.86846923828	
+[00:01:23]: setting 	springlength	20	
+[00:01:23]: setting 	isnightmarewild	false	
+[00:01:23]: setting 	moonphase	quarter	
+[00:01:23]: setting 	precipitationrate	0.21457620165552	
+[00:01:23]: setting 	iswet	true	
+[00:01:23]: setting 	isnewmoon	false	
+[00:01:23]: setting 	iswinter	false	
+[00:01:23]: setting 	israining	true	
+[00:01:23]: setting 	issummer	false	
+[00:01:23]: setting 	time	0.43357219696045	
+[00:01:23]: setting 	wetness	100	
+[00:01:23]: setting 	moistureceil	3005.541015625	
+[00:01:23]: setting 	isday	false	
+[00:01:23]: setting 	nightmaretimeinphase	0	
+[00:01:23]: setting 	season	spring	
+[00:01:23]: setting 	isnight	false	
+[00:01:23]: setting 	cycles	43	
+[00:01:23]: setting 	isnightmarecalm	false	
+[00:01:23]: setting 	timeinphase	0.2421443939209	
+[00:01:23]: setting 	isdusk	true	
+[00:01:23]: setting 	iscavedusk	true	
+[00:01:23]: setting 	isautumn	false	
+[00:01:23]: setting 	iscaveday	false	
+[00:01:23]: setting 	remainingdaysinseason	12	
+[00:01:23]: setting 	phase	dusk	
+[00:01:23]: setting 	snowlevel	0	
+[00:01:23]: setting 	iswaxingmoon	true	
+[00:01:23]: setting 	autumnlength	20	
+[00:01:23]: setting 	pop	1	
+[00:01:23]: setting 	nightmaretime	0	
+[00:01:23]: setting 	isspring	true	
+[00:01:23]: setting 	winterlength	15	
+[00:01:23]: setting 	nightmarephase	none	
+[00:01:23]: setting 	issnowcovered	false	
+[00:01:23]: setting 	issnowing	false	
+[00:01:23]: setting 	iscavenight	false	
+[00:01:23]: setting 	temperature	25.871991742011	
+[00:01:23]: setting 	cavephase	dusk	
+[00:01:23]: setting 	precipitation	rain	
+[00:01:23]: setting 	isnightmarewarn	false	
+[00:01:23]: OVERRIDE: setting	butterfly	to	often	
+[00:01:23]: OVERRIDE: setting	flowers	to	often	
+[00:01:23]: Reconstructing topology	
+[00:01:23]: 	...Sorting points	
+[00:01:23]: 	...Sorting edges	
+[00:01:23]: 	...Connecting nodes	
+[00:01:23]: 	...Validating connections	
+[00:01:23]: 	...Housekeeping	
+[00:01:23]: 	...Done!	
+[00:01:23]: ModIndex: Load sequence finished successfully.	
+[00:01:23]: Reset() returning
+[00:01:23]: Attempting to send resume request
+[00:01:24]: ReceiveResumeNotification
+[00:01:24]: Movement prediction enabled	
+[00:01:24]: Deserializing tile data (427 x 427)
+[00:05:55]: Serializing user: session/0B9815CFD2761F92/A7K7S49MJ236/0000000001
+[00:13:56]: Serializing user: session/0B9815CFD2761F92/A7K7S49MJ236/0000000001
+[00:21:56]: Serializing user: session/0B9815CFD2761F92/A7K7S49MJ236/0000000001
+[00:29:57]: Serializing user: session/0B9815CFD2761F92/A7K7S49MJ236/0000000001
+[00:30:02]: [200] Account Communication Success (6)
+[00:30:02]: Received (KU_X-4JQOXc) from TokenPurpose
+[00:37:57]: Serializing user: session/0B9815CFD2761F92/A7K7S49MJ236/0000000001
+[00:45:30]: Invalid RPC data type
+[00:45:58]: Serializing user: session/0B9815CFD2761F92/A7K7S49MJ236/0000000001
+[00:53:58]: Serializing user: session/0B9815CFD2761F92/A7K7S49MJ236/0000000001
+[01:00:02]: [200] Account Communication Success (6)
+[01:00:02]: Received (KU_X-4JQOXc) from TokenPurpose
+[01:00:10]: Locomotor: Waiting for server...
+[01:00:10]: Locomotor: Resumed
+[01:00:25]: Invalid RPC data type
+[01:01:59]: Serializing user: session/0B9815CFD2761F92/A7K7S49MJ236/0000000001
+[01:10:00]: Serializing user: session/0B9815CFD2761F92/A7K7S49MJ236/0000000001
+[01:18:00]: Serializing user: session/0B9815CFD2761F92/A7K7S49MJ236/0000000001
+[01:26:00]: Serializing user: session/0B9815CFD2761F92/A7K7S49MJ236/0000000001
+[01:30:02]: [200] Account Communication Success (6)
+[01:30:02]: Received (KU_X-4JQOXc) from TokenPurpose
+[01:34:01]: Serializing user: session/0B9815CFD2761F92/A7K7S49MJ236/0000000001
+[01:42:01]: Serializing user: session/0B9815CFD2761F92/A7K7S49MJ236/0000000001
+[01:50:02]: Serializing user: session/0B9815CFD2761F92/A7K7S49MJ236/0000000001
+[01:58:03]: Serializing user: session/0B9815CFD2761F92/A7K7S49MJ236/0000000001
+[02:00:02]: [200] Account Communication Success (6)
+[02:00:02]: Received (KU_X-4JQOXc) from TokenPurpose
+[02:06:04]: Serializing user: session/0B9815CFD2761F92/A7K7S49MJ236/0000000001
+[02:14:04]: Serializing user: session/0B9815CFD2761F92/A7K7S49MJ236/0000000001
+[02:22:05]: Serializing user: session/0B9815CFD2761F92/A7K7S49MJ236/0000000001
+[02:28:06]: Locomotor: Waiting for server...
+[02:28:06]: Locomotor: Resumed
+[02:30:01]: [200] Account Communication Success (6)
+[02:30:01]: Received (KU_X-4JQOXc) from TokenPurpose
+[02:30:06]: Serializing user: session/0B9815CFD2761F92/A7K7S49MJ236/0000000001
+[02:32:58]: DoRestart:	true	
+[02:32:59]: Serializing user: session/0B9815CFD2761F92/A7K7S49MJ236/0000000001
+[02:32:59]: [Steam] Game Connection terminated (16777343|10999)
+[02:32:59]: [Shard] Stopping shard mode
+[02:32:59]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[02:32:59]: [IPC] Sending signal... #00000A24
+[02:33:01]: [IPC] Unregistering handler for signal #00000A48
+[02:33:01]: [IPC] Unregistering handler for signal #00000A4C
+[02:33:01]: [IPC] Unregistering handler for signal #00000A30
+[02:33:01]: [IPC] Unregistering handler for signal #00000A1C
+[02:33:01]: [IPC] Unregistering handler for signal #00000A20
+[02:33:01]: [IPC] Sending signal... #00000A54
+[02:33:02]: [IPC] Unregistering handler for signal #000009FC
+[02:33:02]: [IPC] Unregistering handler for signal #00000718
+[02:33:02]: [IPC] Unregistering handler for signal #00000A34
+[02:33:02]: [IPC] Unregistering handler for signal #00000A50
+[02:33:02]: [IPC] Unregistering handler for signal #00000A44
+[02:33:02]: unloading prefabs for mod MOD_workshop-347079953	
+[02:33:02]: unloading prefabs for mod MOD_workshop-375859599	
+[02:33:02]: unloading prefabs for mod MOD_workshop-362175979	
+[02:33:02]: unloading prefabs for mod MOD_workshop-345692228	
+[02:33:02]: unloading prefabs for mod MOD_workshop-737441707	
+[02:33:02]: unloading prefabs for mod MOD_workshop-897634060	
+[02:33:02]: unloading prefabs for mod MOD_workshop-723721217	
+[02:33:02]: unloading prefabs for mod MOD_workshop-727325644	
+[02:33:02]: unloading prefabs for mod MOD_workshop-721491336	
+[02:33:02]: unloading prefabs for mod MOD_workshop-729309574	
+[02:33:02]: unloading prefabs for mod MOD_workshop-376333686	
+[02:33:02]: unloading prefabs for mod MOD_workshop-367546858	
+[02:33:02]: unloading prefabs for mod MOD_workshop-351325790	
+[02:33:02]: unloading prefabs for mod MOD_workshop-378160973	
